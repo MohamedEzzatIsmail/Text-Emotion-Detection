@@ -38,7 +38,7 @@ python model.py
 Run the GUI 
 python app.py
 
-##🚀 Usage
+## 🚀 Usage
 Launch the desktop app.
 
 Enter any sentence or paragraph.
@@ -47,7 +47,7 @@ Click "Detect Emotion".
 
 The app will display the predicted emotion instantly.
 
-##🧪 Sample Inputs
+## 🧪 Sample Inputs
 Try some of these:
 
 "I’m so happy right now!"
@@ -58,7 +58,7 @@ Try some of these:
 
 "What a surprise party!"
 
-##📦 File Structure
+## 📦 File Structure
 
 emotion-detector-gui/
 │
