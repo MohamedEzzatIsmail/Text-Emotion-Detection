@@ -69,10 +69,10 @@ emotion-detector-gui/
 ├── requirements.txt            # Dependencies (optional)
 └── README.md                   # Documentation
 
-##📄 License
+## 📄 License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
-##✨ Credits
+## ✨ Credits
 Dataset: Tweet Emotion Dataset
 
 GUI: Built with Tkinter
